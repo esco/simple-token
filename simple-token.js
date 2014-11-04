@@ -1,5 +1,5 @@
 var UID = 0;
-var UID_KEY = '_mkuid_';
+var UID_KEY = '_simple_token_uid_';
 
 function tokenize(obj) {
   switch (typeof obj) {
