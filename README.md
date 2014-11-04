@@ -11,7 +11,9 @@ var tokenize = require('simple-token');
 tokenize(42);
 // 42
 tokenize('foo');
-// foo
-tokenize({ foo: 'bar' });
+// '"foo"'
+tokenize({ key: 'value' });
 // $1
+tokenize(function(){});
+// $2
 ```
