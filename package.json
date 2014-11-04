@@ -2,7 +2,7 @@
   "name": "simple-token",
   "version": "0.0.1",
   "description": "Create a string representation of an object or primative",
-  "main": "tokenize.js",
+  "main": "simple-token.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/esco/simple-token.git"
