@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Create a string representation of an object or primative",
   "main": "tokenize.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esco/simple-token.git"
+  },
   "scripts": {
     "test": "mocha test/*-test.js --require test/config.js"
   },
