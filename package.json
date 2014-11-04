@@ -1,6 +1,6 @@
 {
   "name": "simple-token",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Create a string representation of an object or primative",
   "main": "simple-token.js",
   "repository": {
